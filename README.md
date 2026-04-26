@@ -29,6 +29,7 @@ The framework requires **Python 3.10**. Install the necessary dependencies via p
 pip install scikit-learn==1.6.1 xgboost pandas numpy matplotlib seaborn joblib
 ```
 ## Repository Structure
+```text
 ├── notebooks/         # End-to-end analysis (Preprocessing to ML)
 ├── scripts/           # Modular Python scripts for model training
 ├── data/              # Metadata and processing links (GSE140809)
