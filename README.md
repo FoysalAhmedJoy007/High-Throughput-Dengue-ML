@@ -36,10 +36,15 @@ main.py
 
 ## Repository Structure
 ```text
-├── notebooks/         # End-to-end analysis (Preprocessing to ML)
-├── scripts/           # Modular Python scripts for model training
-├── data/              # Metadata and processing links (GSE140809)
-├── outputs/           # High-resolution figures and performance logs
+├── source code/
+│   ├── config.py
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── models.py
+│   ├── train.py
+│   ├── evaluate.py
+    ├── requirement.txt
+├── main.py
 └── README.md          # Project documentation
 ```
 
