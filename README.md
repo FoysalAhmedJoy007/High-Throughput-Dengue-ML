@@ -56,7 +56,7 @@ The framework identified **33 critical biomarkers**, with the following top regu
 ## Citation
 If you utilize this framework or its findings in your research, please cite the following publication:
 
-> **Khandocar, M. P.** (2025). *A comprehensive machine learning framework for high-throughput Dengue transcriptome analysis, biomarker discovery, functional annotation, and visualization of therapeutic targets.* [In Press/Journal Details].
+> **Khandocar, M. P.** (2025). *A comprehensive machine learning framework for high-throughput Dengue transcriptome analysis, biomarker discovery, functional annotation, and visualization of therapeutic targets.*.
 
 ## Contact
 For technical inquiries or collaboration, please contact:
