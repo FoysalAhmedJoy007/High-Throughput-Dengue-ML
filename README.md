@@ -43,7 +43,7 @@ main.py
 │   ├── models.py
 │   ├── train.py
 │   ├── evaluate.py
-    ├── requirement.txt
+├── requirement.txt
 ├── main.py
 └── README.md          # Project documentation
 ```
