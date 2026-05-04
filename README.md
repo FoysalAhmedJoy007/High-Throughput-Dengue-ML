@@ -5,7 +5,6 @@
 
 ## Overview
 DengueML is a formal computational framework designed for the high-throughput analysis of Dengue virus (DENV) transcriptomic data. The pipeline integrates differential expression analysis (DEA) with multi-algorithmic machine learning (ML) to identify diagnostic biomarkers, perform functional annotations, and map therapeutic targets.
-
 This repository provides the implementation used in the study: *"A comprehensive machine learning framework for high-throughput Dengue transcriptome analysis, biomarker discovery, functional annotation, and visualization of therapeutic targets."*
 
 ## Methodology
